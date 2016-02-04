@@ -1,0 +1,28 @@
+Welcome to movement 101!
+                                         
+h is left, j is down, k is up, l is left!
+                                         
+w goes forward a word, b goes back!
+                                         
+e goes to the end of the word
+                                         
+ goes forward a page!   goes back!
+                                         
+                                         
+                                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
